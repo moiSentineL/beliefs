@@ -1,3 +1,7 @@
+---
+permalink: "/beliefs/index.html"
+---
+
 *Author: Buster Benson*
 
 ## What are beliefs?
