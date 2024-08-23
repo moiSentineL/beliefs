@@ -1,12 +1,20 @@
 name: Triggers
 
 on:
-    push:
+  workflow_dispatch
 
 jobs:
-    curl:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Run Command
-            - run: |
-                curl -XPOST -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/moiSentineL/moisentinel.github.io/actions/workflows/eleventy_build.yaml/dispatches --data '{"ref": "main"}'
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.PAT_TOKEN }}
+        script: |
+          const result = await github.rest.repos.createDispatchEvent({
+            owner: 'moiSentineL',
+            repo: 'moisentinel.github.io',
+            event_type: 'beliefs',
+            client_payload: {"version": "v5.3.10"}
+          })
+          console.log(result);
