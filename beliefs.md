@@ -10,6 +10,8 @@ A belief is a personal perspective that was both sharpened and polished by all t
 ## What is this document?
 This document is my conscious mirror. It is living, evolving, growing. This was inspired by Buster Benson's Book of Beliefs.
 
+Yes.
+
 ## Why does it exist?
 My main goal here is to get wiser over time by identifying new connections and inconsistencies in my beliefs. It’s tough to do this as a purely mental activity because specific beliefs are so difficult to get a firm grasp on. When you do, putting them on a page makes it possible to revisit again later. All of this is necessary in order to consistently course-correct over days, months, years, and decades. A secondary goal is that I’d also like to extend an invitiation for others to spark conversations with me about anything they find interesting, incorrect, or confusing and to also help keep me accountable.
 
