@@ -1,14 +1,14 @@
 ---
+layout: "pages/beliefs.njk"
 permalink: "/beliefs/index.html"
+title: "Beliefs"
 ---
-
-*Author: Buster Benson*
-
+# Work under Progress.
 ## What are beliefs?
 A belief is a personal perspective that was both sharpened and polished by all the random pieces of information and experiences we bump into during our lives. A belief can be a perspective on anything from “what is the best burrito in SF?” to “how did the universe begin and how will it end?” to “how easy should it be to buy a gun?” and beyond.
 
 ## What is this document?
-This is a public, living, dying, document that I created as an experiment one Sunday in April of 2012 (see the [Changelog](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#Changelog) below for a full history), and has been revised at least yearly ever since. Maintaining it has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I’ve updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I’m attempting to be as specific as possible and to quickly correct errors when they become apparent.
+This document is my conscious mirror. It is living, evolving, growing. This was inspired by Buster Benson's Book of Beliefs.
 
 ## Why does it exist?
 My main goal here is to get wiser over time by identifying new connections and inconsistencies in my beliefs. It’s tough to do this as a purely mental activity because specific beliefs are so difficult to get a firm grasp on. When you do, putting them on a page makes it possible to revisit again later. All of this is necessary in order to consistently course-correct over days, months, years, and decades. A secondary goal is that I’d also like to extend an invitiation for others to spark conversations with me about anything they find interesting, incorrect, or confusing and to also help keep me accountable.
@@ -19,225 +19,24 @@ Some most definitely are. This document captures my best guesses and articulatio
 ## Do you want to make your own book of beliefs?
 If so, I highly encourage starting simple... just carve out a part of a day and go kinda free-form with writing down whatever beliefs that come to mind. Feel free to copy the structure here, but be sure to take out big chunks of it that don't feel timeline right now. This is the culmination of many years of iteration... my [first version](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md) was extremely short and simplistic so don't feel like you need to come out of the gate with a fully formed articulation of all of your beliefs.
 
-# The Book of Beliefs
 
-## Chapter 1: Values I try to live by
+
+## Values I try to live by
 
 These are values I try to live by, but obviously it won't always happen. If you catch me compromising one of these values, I ask you to call me out on it. It's easier to spot inconsistencies in other people than in ourselves, so you can help to catch my own inconsistencies. And if I appear annoyed by you when you do this, just remind me that I asked you to do this. Thanks!
-
-1. I value myself, all people, all conscious/living things, as they are, and believe we should participate in the world in a way that lives up to the dignity in each of us.
-2. I value cultivating and articulating a clear vision for my life, putting some real weight on it in the form of actions/decisions, and reviewing it often enough to make course-corrections along the way.
-3. I also value allowing space for distractions and contradictions to appear that might challenge or shift the vision.
-4. I value composing [Annual Reviews](https://busterbenson.com/pile/year-in-review/) around my birthday every year.
-5. I value practicing the art of productive disagreement with people who have different perspectives from me.
-6. I value trying to avoid labeling groups of people unless they explicitly request it.
-7. I value speaking and being my word.
-8. I value being direct and speaking up when I feel something is wrong, even if it potentially disrupts the peace.
-9. I value being the change I want to see.
-10. I value having good intentions towards people I directly or indirectly impact.
-11. I value de-magnetizing myself from cultural identities I’ve inherited by asking, “What if I didn’t have to be masculine?” “What if I didn’t have to be successful?” “What if I didn’t have to change the world?” “What if I didn’t have to be an expert?”
-12. I value being the maker of my own meaning.
-13. I value making my own advice after consulting others, and then taking it.
-14. I value rallying others with my vision, even if it’s not perfect.
-15. I value staking my reputation on my better self, then striving to live up to it.
-16. I value living with the consequences of who I am, even if they were unintentionally harmful.
-17. I value managing my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
-18. I value savoring my mistakes so that I can learn from them.
-19. I value retrying things I don’t like every once in a while.
-20. I value going slow, working hard, and avoiding shortcuts.
-21. I value cultivating quality time with myself, with others, and with my interests.
-22. I value facing things that make me uncomfortable, to learn about the fears I'm holding inside the discomfort.
-
-## Chapter 2: Beliefs about the world
-
-*On aliens*
-
-- Other intelligent life forms exist somewhere in this universe.
-- We’ll discover the creations of alien civilizations (ie. long-lived, patient robots they send into space) before we discover their original biological species.
-- Aliens will probably discover our own long-lived, patient robots before they discover us.
-- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
-- Aliens are unlikely to be aggressive. Any sufficient reason to come specifically to us is unlikely to be motivated by typical warlike intentions, because we don't have anything special in the universe that they can't get elsewhere for cheaper.
-
-*On artificial intelligence*
-
-- Machines will eventually become more intelligent (in terms of practical applications of intelligence) than humans are today.
-- Machines will make humans more intelligent than we are today.
-- Intelligence isn't a single skill that can be acquired all at once, but the result of learning processes that take in one or more flows of new information, and communicate out analysis of the data in meaningful ways. Every flow of data will favor different intelligences, and intelligences that exist on one or more flows of data won't necessarily be adapted for other flows of data.
-
-*On cognitive biases*
-
-- We're susceptible to many cognitive biases and logical fallacies, because our brains require them to get any thinking done within our constraints of time and energy.
-- Every single person, including myself, has many implicit associations that lead to bias that they/I can't fully eradicate in ourselves. It's more effective to accept that fact, and account for it by being transparent about it, and looking for ways to repair damage caused by it, to try to hide it.
-
-*On consciousness*
-
-- I subscribe to the general philosophy of a modern branch Idealism (poorly named, in my opinion) that is best articulated by Bernardo Kastrup and Donald Hoffman, which posits that consciousness is the primary nature of reality, and matter is secondary. The simplest way to think of it is that a cosmic consciousness is having a very large dream about the universe, and we are fractals of that consciousness in the same way that we can be a character in our own dreams.  
-- Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl. 
-- There is a quality of consciousness that is more valuable and fundamental than will, which is just pure experience and awareness. 
-
-*On critical thinking*
-
-- When assigning responsibility for life outcomes, there are two poles: one being a high-agency stance that treats individual freedom and responsibility as absolute, and the other a low-agency stance that treats choices as constrained so much by social structures that responsibility is best placed on the system as a whole. I think it's necessary to carry both of these positions simultaneously and to default to responsibility when considering our own agency.
-- Most questions have no answer (but asking them and talking about them anyway can be entertaining and even useful).
-- I subscribe to Hume's Fork, which claims that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. '2 + 2 = 4' and 'My name is Buster' are both conclusively true if we agree to the definitions and relations between each word and symbol.
-- Logic is a helpful tool, but has flaws and if relied on too heavily it can cause more problems than it solves.
-- Even if absolute truth about matters of fact aren't accessible to us, it's still possible to get closer to it. Especially in the context of making better predictions on limited data.
-- The human brain (in its current state of evolution) can't comprehend the universe.
-
-*On dialogue*
-
-- The conversation is the relationship. If the conversation is going poorly between two or more people, so are the relationships. And vice versa.
-- If you're stuck in an unproductive or harmful conflict that seems impossible to resolve, the best course of action is to consider other alternatives to resolution like learning about how the other side thinks, connecting on a personal level, and inspiring action that both sides would benefit from.
-- There are several ways to make a conflict productive other than through resolution. For example: learning something that was previously hidden, connecting with someone at a deeper level, having fun, becoming inspired to act in collaboration, etc.
-
-*On ecosystems*
-
-- Human-influenced climate change is real, and it's appropriate to panic.
-- Climate change is of particular importance to humans, because it poses an existential risk to our survival, but it's not the only risk and not the greatest risk (see existential threats).
-- Within this universe, we evolved through natural systems that required no outside intervention.
-- Micro and macro evolution really happen.
-- Disrupting the world's ecology (through deforestation, overfishing, monocultures, etc) poses a 5% existential threat to us.
-- Nuclear war poses a 3% existential threat to us.
-- The supervolcano erupting poses an 2% existential threat to us.
-- Climate change poses a 1% existential threat to us, partially because of the problem and partially because our solutions to it might backfire.
-- Asteroid impact poses a 1% existential threat to us.
-- A runaway artificial intelligence poses a <1% existential threat to us.
-- The magnetic poles reversing poses a <1% existential threat to us.
-- Aliens pose a <0.001% existential threat to us.
-- If and when humans become extinct, the Earth will barely notice (perhaps just giving a long sigh of relief).
-- We are part of a larger system that cycles materials through processes that include what we call life, as well as many other things (like tectonic movement, weather systems, the magnetic field, the cycling of water, carbon, and many other molecules and compounds).
-- Dirt is what living things do in times between being alive.
-
-*On game theory*
-
-- The optimal strategy in a game like Iterated Prisoner's Dilemma dances around in response to all of the other strategies around it. Whenever a strategy is effective and gains popularity, it opens up an opportunity for another strategy to exploit those strengths and turn them into weaknesses.
-- Being both suspicious (starting with low trust) and unforgiving (punishing players when they have defected unprovoked) seems to be a less successful strategy than being high trust and forgiving, even though it feels counter-intuitive. This is because when there are multiple suspicious and unforgiving players, they lose more points to each other than they gain from the trusting, forgiving players. 
-
-*On government*
-
-- As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
-- When power is redistributed (through disruption, revolution, or disaster), it will have undesirable short-term consequences.
-- Power almost always becomes motivated to remain in power, which results in systemic discrimination, harassment, oppression, and abuse. It is against power's self-preservation instincts to build structures that might lead to them being removed from power. All the more reason for accountability to be built in from the start.
-
-*On health*
-
-- A lot about health and medicine is mental, which opens the door for things like placebo effect and "fake" remedies. But even these can be used to positive effect.
-- Acupuncture works, somehow.
-
-*On internal mental space*
-
-- Tulpa are a super weird, but fascinating concept. 'Tulpa' is a term that refers to our internal thoughtforms of conscious entities. For example, while Santa may not exist in the real world, we all have an internal tulpa of Santa that we've trained to essentially simulate Santa in our minds. Tulpa can exist for living people, dead people, historical people, and even our concept of ourselves is a tulpa in some ways.
-- Some tulpa are trained off of our religious cultures: Santa, God, Jesus, etc. Others are trained off of our memories of people who have passed away: ghosts, dreams, and all of our internal voices.
-- All of our classic mental archetypes for father, mother, grandfather, grandmother, boss, teacher, etc are loosely defined tulpa that will pull partly from cultural sources, and partly from personal experiences.
-- Even our personal sense of self identity is a tulpa that we feed, act through, and help train other people on as they get to know us.
-
-*On mindfulness*
-
-- For beginners, private journaling and going on a long walk can both in some ways be more tangible and practical tools than sitting on a pillow and trying not to think (aka meditating) or talking to an imaginary omniscient being (aka prayer).
-- Meditation and prayer are also great tools, with slightly steeper learning curves for some people who fear they are doing it wrong.
-
-*On the nature of reality*
-
-- Nothing in our universe can travel faster than light.
-- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
-- Teleportation, if it's ever invented, is more likely to resemble the creation of copies than 'true' teleportation.
-- Our universe began with low entropy and continues on a long, slow path to high entropy, powering literally everything along the way.
-- The universe, at the most fundamental level, may just be a mathematical structure (ala Max Tegmark's The Mathematical Universe).
-- Something like the Big Bang happened, and will probably happen again.
-- Something existed before the Big Bang (outside of time and space as we know them).
-- Other dimensions and universes exist.
-- The laws of physics (see physics) likely prevent us from ever proving that other universes exist.
-- Our universe is probably a simulation or sandbox within a larger universe or set of universes.
-
-*On protest*
-
-- Protest is about challenging the status quo, and since the status quo determines “what is right” and “what is normal”, protests will necessarily be criticize for being conducted incorrectly. That’s part of why they exist, and part of what makes them powerful tools.
-- A protest does have a purpose, which may be fuzzy or clear, virtuous or criminal, and its effectiveness towards that end can be judged by its ability to bring the forward momentum to its purpose. 
-- Because a protest is generally about those with less power appealing to those with power, for failings perceived by those with less power, those who have been wronged should not be held to the same social contracts for conduct until their own grievances about broken social contracts have been heard and addressed.
-- In order to remain effective, protest are a social and political tool that must evolve over time as new tactics of counter-protest, infiltration, suppression, coordination, disruption, etc evolve to thwart them (because they challenge the status quo and the status quo will not take a neutral stance towards being challenged).
-
-*On purpose*
-
-- Memento mori is a useful tool for remembering you're alive.
-- There is no official purpose or meaning granted to our lives.
-- It's okay to identify our own objectives in life and call them a purpose.
-
-*On spirituality*
-
-- Being good/moral increasingly becomes our natural state if we learn more about the world, each other, and ourselves in a supportive environment.
-- We were not created in the way described in any of the major holy texts, if you take a literal interpretation, though they're still useful stories and play a purpose beyond describing actual historical events. 
-- There is no afterlife other than being dirt, which I think kinda counts.
-- Souls probably don't exist as separate from the physical body. I'm still on the fence about whether we all belong to a big universal consciousness of sorts. 
-- The gods of organized religion don't exist in the way that they are currently defined.
-- There is no heaven or hell in the sense that they're currently defined.
-- Angels, demons, ghosts, and other spirits exist as antropomorphised agents in our minds that are useful shortcuts for abstract concepts (see tulpas).
-- The supposed law of attraction can't create reality through intention, though it could prime our perception of it and makes us more likely to notice opportunities).
-- I'm impressed with the complexity and ingenuity of the field of astrology, and while I don't believe there is a literal connection with the stars, I do think there is something about seasons and cycles that is captured in some of the wisdom. I used to write it off entirely, and now I don't as much.
-
-*On technology*
-
-- Technology has or will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
-
-*On vulnerability*
-
-- We will die. Memento mori.
-- The only way to be invulnerable is to be dead. To live is to be vulnerable, because that's the only way we can be seen. And everything that can be seen can also be hurt.
-
-## Chapter 3: Beliefs about policy and law
-
-*Body rights*
-
-- Abortion and birth control should be made readily accessible and free to all people who need it.
-- Assisted suicide (or medically-aided death) should be legal and available to people in a certain set of dire situations that they feel prevent them from having any chance of a pleasant future.
-
-*Criminal justice system*
-
-- The death penalty should be used only in very extreme and certain cases to protect the public, because of the risk of false-positives.
-- Prisons should be about protecting the public, not about punishment, and should be tested for efficacy alongside other interventions like restorative justice.
-- There should be special measures made to insure that criminal behavior by people in high-power positions get punished with equal or higher frequency than criminal behavior by people in lower-power positions, because those in higher-power positions are better equipped (and incentivized) to avoid accountability.
-
-*Drugs*
-
-- Marijuana should be legal to grow, sell, buy, carry, and use.
-
-*Education*
-
-- Free college education should be available to everyone who wants it.
-- All college debt should be forgiven. 
-
-*Elections and voting*
-
-- The electoral college is outdated and too easily manipulated. It should be replaced by something like delegative democracy or another simple system founded on popular vote.
-- As a citizen, you should make full use of your right to vote as a tool to influence the country's direction towards improvement. This right includes choosing not to vote, since that too influences the country's direction.
-- When using your right to vote to influence the country, you should weigh not only the direct outcome, but also the 2nd and 3rd order outcomes that ripple outward from the act (both intentional and unintentional).
-
-*Free speech*
-
-- Any sufficiently powerful entity to enforce the limits of free speech shouldn't be fully trusted to do so without bias for protecting their own power.
-- Speech is a form of power, and just like power, free speech has constraints and is never absolute. However, because speech is often regulated by those in power, it's important to make sure they are not in charge or even capable of determining the constraints of free speech.
-- The First Amendment protects us from having our speech restricted by the government, but says nothing about the equally important questions around how we cultivate and maintain environments where people feel safe to speak, and people are free to enter and leave the environment. This secondary context feels like an unsolved problem, and one of our biggest opportunities to level up the quality of public conversations.
-- Free vs censored is an important dimension to consider with speech, but it’s not the only one. We should also consider: 
-    - The divergent quality of the speech — does it contribute new ideas and perspectives to the conversation? 
-    - The convergent quality of the speech — does it simplify the conversation in a way that preserves the diverse perspectives?
-    - The vulnerability vs guardedness of the speech — does it increase the sense that vulnerability is welcome in the conversation or increase the sense that speech must be carefully edited or censored in order to protect the speaker or other relevant subjects?
-
-*Guns*
-
-- Owning a gun should require certification and licensing from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years. The licenses should expire every couple years and require re-testing.
-- Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
-
-*Health care*
-
-- Health care should be available and affordable to everyone who needs it.
-
-*Income inequality*
-- Guaranteed basic income should be a thing available to everyone that is living below the poverty level.
-
-*Police reform*
-
-- There should be a Misconduct Division of the DOJ (or something similar) to investigate reports of misconduct, prosecute offenders, and sentence them even more than the general public since it’s their duty to uphold peace, not propagate criminality.
-- Police forces with high levels of misconduct should be defunded.
-- Police officers charged with misconduct should be banned from ever working as police officers again, in any state.
+## My Beliefs
+### On Policy 
+- Indian political system is continually becoming Orwellian.
+### On Schooling
+- Formal education is not efficient. Aristocratic Education is better.
+- Schools are mere day jobs and social platforms. Really bad model for educating people.
+- Degrees are certifications of capability of labour.
+### On Learning
+- Generalisation is the key to solving problems that require more intellectual currency.
+- Renaissance Man is the new future.
+- 
+### On Philosophy
+- 
 
 
 ## Chapter 4: Writing that has changed how I think
@@ -246,77 +45,13 @@ Writing I've loved and come back to a bunch of times.
 
 ### Articles
 
-- [Leverage Points](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) - Donella Meadows
-- [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
-- [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
-- [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
-- [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
-- [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
-- [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
-- [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
-- [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
-- [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
-- [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
-
 ### Books 
-
-- [All About Love](https://amzn.to/3LWqwp0) - bell hooks
-- [Radical Acceptance](https://amzn.to/3lVjVjY) - Tara Brach
-- [The Wild Edge of Sorrow](https://amzn.to/3lRoVpI) - Francis Weller
-- [Creating Capabilities](https://amzn.to/3wSVudp) - Martha Nussbaum
-- [Sand Talk](https://amzn.to/3wTPnFM) - Tyson Yunkaporta
-- [Tao Te Ching](https://amzn.to/3NBMTBg) - Lao Tzu, translated by Ursula K. Le Guin
-- [Everyone's an aliebn when ur a aliebn too](https://amzn.to/3N02Voz) - Jomny Sun
-- [The Enigma of Reason](https://amzn.to/3a3dzfM) - Hugo Mercier
-- [The Big Picture](https://amzn.to/3GxgB8b) - Sean Carroll
-- [I Am a Strange Loop](https://amzn.to/3N0vKkR) - Douglas Hoftstadter
-- [You're It](https://amzn.to/3LWqKMS) - Alan Watts
-- [The Wisdom of Insecurity](https://amzn.to/38sXa3X) - Alan Watts
-- [Creativity, Inc](https://amzn.to/3wSqCtw) - Ed Catmull
-- [Antifragile](https://amzn.to/3NHXLh3) - Nassim Nicholas Taleb
-- [Thinking Fast and Slow](https://amzn.to/3t2CpDd) - Daniel Kahneman
-- [Strangers To Ourselves](https://amzn.to/39YqAY1) - Timothy D. Wilson
-- [Fooled by Randomness](https://amzn.to/3LWDqTS) - Nassim Nicholas Taleb
 
 ## Chapter 5: Predictions about the future
 
 How I think things will be in the future, based on the approximate year I think they’ll come true. I don't have a good track record with these but I like keeping them up and cringing as they end up not becoming true... it's a natural source of humility. 
 
-### By 2025
 
-- Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
-- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
-- Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
-
-### By 2030
-
-- We'll have had a President that admits to being atheist or agnostic.
-- Safe, genetically modified foods will become the norm.
-- Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
-
-### By 2050
-
-- Computers will be building better computers than humans.
-- Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
-- People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
-- Solar will overcome gas and oil in usage.
-
-### By 2100
-
-- There will be 10 billion people on the planet at once.
-- 80% of people will live in cities and new mega-cities.
-- Physical travel will be completely unnecessary due to virtual reality technology.
-- The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
-- Coral reefs and the ocean ecosystems are going to break with unknown consequences.
-
-### By 2200
-
-- Humans, computers, and Earth will evolve into at least one super organism or networked brain.
-
-### Past Predictions
-
-- LOST: In 2016, Hillary will win the election
-- LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
 
 ## Chapter 6: Some of my favorite ideas
 *In alphabetical order.*
