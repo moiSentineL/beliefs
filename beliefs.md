@@ -1,5 +1,5 @@
 ---
-layout: "pages/beliefs.njk"
+layout: "core/beliefs.njk"
 permalink: "/beliefs/index.html"
 title: "Beliefs"
 ---
